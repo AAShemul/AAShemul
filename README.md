@@ -1,10 +1,6 @@
 # Welcome to Md. Ashraful Alam Shemul's GitHub profile
 [![GitHub followers](https://img.shields.io/github/followers/AAShemul?label=Follow&style=social)](https://github.com/AAShemul?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/AAShemul?style=social)]()
-[![GitHub forks](https://img.shields.io/github/forks/AAShemul?style=social)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/AAShemul?style=social)]()
-[![GitHub issues](https://img.shields.io/github/issues/AAShemul?style=social)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/AAShemul?style=social)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/AAShemul/AAShemul?style=social)]()
 [![GitHub repo size](https://img.shields.io/github/repo-size/AAShemul/AAShemul?style=social)]()
 [![GitHub language count](https://img.shields.io/github/languages/count/AAShemul/AAShemul?style=social)]()
@@ -12,6 +8,11 @@
 [![GitHub search hit counter](https://img.shields.io/github/search/AAShemul/AAShemul/README.md?style=social)]()
 [![GitHub contributors](https://img.shields.io/github/contributors/AAShemul/AAShemul?style=social)]()
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AAShemul/AAShemul?style=social)]()
+
+[//]: # ([![GitHub forks]&#40;https://img.shields.io/github/forks/AAShemul?style=social&#41;]&#40;&#41;)
+[//]: # ([![GitHub watchers]&#40;https://img.shields.io/github/watchers/AAShemul?style=social&#41;]&#40;&#41;)
+[//]: # ([![GitHub issues]&#40;https://img.shields.io/github/issues/AAShemul?style=social&#41;]&#40;&#41;)
+[//]: # ([![GitHub pull requests]&#40;https://img.shields.io/github/issues-pr/AAShemul?style=social&#41;]&#40;&#41;)
 
 ### Shemul's Social Media Profiles
 
@@ -55,9 +56,10 @@
 ### Shemul's GitHub Profile Counter
 
 [![Shemul's GitHub Profile Views](https://komarev.com/ghpvc/?username=AAShemul&style=flat-square&color=blueviolet)]()
-[![Shemul's GitHub Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AAShemul.visitor-badge)]()
-[![Shemul's GitHub Profile Views Count](https://views.whatilearened.today/views/github/AAShemul/views.svg)]()
-[![Shemul's GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=AAShemul&color=blueviolet)]()
+
+[//]: # ([![Shemul's GitHub Profile Views Count]&#40;https://views.whatilearened.today/views/github/AAShemul/views.svg&#41;]&#40;&#41;)
+[//]: # ([![Shemul's GitHub Profile Views Counter]&#40;https://komarev.com/ghpvc/?username=AAShemul&color=blueviolet&#41;]&#40;&#41;)
+[//]: # ([![Shemul's GitHub Profile Visitors]&#40;https://visitor-badge.glitch.me/badge?page_id=AAShemul.visitor-badge&#41;]&#40;&#41;)
 
 ### Shemul's StackOverflow Stats
 
