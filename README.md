@@ -39,7 +39,7 @@
 
 ### Shemul's GitHub Profile Summary
 
-[![Shemul's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAShemul&theme=monokai)]()
+[![Shemul's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAShemul&theme=radical)]()
 
 ### Shemul's Most Used Languages
 
@@ -51,7 +51,7 @@
 
 ### Shemul's GitHub Trophies
 
-[![Shemul's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AAShemul&theme=onedark)]()
+[![Shemul's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AAShemul&theme=radical)]()
 
 ### Shemul's GitHub Profile Counter
 
