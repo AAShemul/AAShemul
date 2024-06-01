@@ -2,7 +2,8 @@
 
 # Welcome to Md. Ashraful Alam Shemul's GitHub Profile
 
-**Md. Ashraful Alam Shemul** is an **Author**, **Teacher**, **Entrepreneur**, and **Software Developer**. He is currently studying his bachelor in **Marine Fisheries** at **Bangabandhu Sheikh Mujibur Rahman Maritime University**. 
+**Md. Ashraful Alam Shemul** is an **Author**, **Teacher**, **Entrepreneur**, and **Software Developer**. He is
+currently studying his bachelor in **Marine Fisheries** at **Bangabandhu Sheikh Mujibur Rahman Maritime University**.
 
 ### Shemul's Social Media Profiles
 
@@ -22,6 +23,7 @@
 [![Shemul's GitLab Profile](https://img.shields.io/badge/GitLab-%23FCA121.svg?&style=flat-square&logo=GitLab&logoColor=white)](https://gitlab.com/AAShemul)
 
 ### Shemul's Language
+
 [![Shemul's Language](https://img.shields.io/badge/Python-%2314354C.svg?&style=flat-square&logo=Python&logoColor=white)]()
 [![Shemul's Language](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=Java&logoColor=white)]()
 [![Shemul's Language](https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=flat-square&logo=Kotlin&logoColor=white)]()
@@ -35,8 +37,8 @@
 [![Shemul's Language](https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white)]()
 [![Shemul's Language](https://img.shields.io/badge/SQL-%2300f.svg?&style=flat-square&logo=MySQL&logoColor=white)]()
 
-
 ### Shemul's Tech
+
 [![Shemul's Tech](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=MySQL&logoColor=white)]()
 [![Shemul's Tech](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat-square&logo=SQLite&logoColor=white)]()
 [![Shemul's Tech](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat-square&logo=PostgreSQL&logoColor=white)]()
@@ -61,9 +63,10 @@
 
 ### Shemul's Natural Language
 
-[![Shemul's Natural Language](https://img.shields.io/badge/Bangla-%23FF0000.svg?&style=flat-square&logo=Google-Translate&logoColor=white)]()
-[![Shemul's Natural Language](https://img.shields.io/badge/English-%2300FF00.svg?&style=flat-square&logo=Google-Translate&logoColor=white)]()
-
+[![Shemul's Natural Language](https://img.shields.io/badge/Bangla-%23DC382D.svg?&style=flat-square&logo=Google-Translate&logoColor=white)]()
+[![Shemul's Natural Language](https://img.shields.io/badge/English-%23563D7C.svg?&style=flat-square&logo=Google-Translate&logoColor=white)]()
+[![Shemul's Natural Language](https://img.shields.io/badge/Arabic-%2343853D.svg?&style=flat-square&logo=Google-Translate&logoColor=white)]()
+[![Shemul's Natural Language](https://img.shields.io/badge/Spanish-%23D83B7D.svg?&style=flat-square&logo=Google-Translate&logoColor=white)]()
 
 ## Statistics
 
@@ -94,3 +97,49 @@
 ### Shemul's StackOverflow Stats
 
 [![Shemul's StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=4841893)]()
+
+## Shemul's Portfolio
+
+Here is the short portfolio of Md. Ashraful Alam Shemul. [Click here to see the full portfolio](PORTFOLIO.md).
+
+### Compiler Projects
+
+1. [Shunno Programming Language](https://shunno.stechbd.net)
+
+### React.js Projects
+
+1. [S Technologies](https://beta.stechbd.net)
+2. [Ulkaa Campus](https://campus.ulkaa.com)
+3. [WP-Next](https://github.com/STechBD/WP-Next)
+
+### Express.js Projects
+
+1. [Install-Express](https://www.stechbd.net/product/Install-Express)
+
+### WordPress Plugin Projects
+
+1. [CookieCons](https://www.stechbd.net/product/CookieCons)
+2. [ProjectPress](https://www.stechbd.net/product/ProjectPress)
+
+### AI Projects
+
+1. [Britto](https://britto.stechbd.net)
+
+### Python Projects
+
+1. [FIshtock](https://fishtock.stechbd.net)
+2. [PyWeb](https://www.stechbd.net/product/PyWeb)
+3. [ViewMD](https://www.stechbd.net/product/ViewMD)
+
+### PHP Projects
+
+1. [S PHP Engine](https://www.stechbd.net/product/SPE)
+2. [S Database Explorer](https://www.stechbd.net/product/SDE)
+3. [S Template Engine](https://www.stechbd.net/product/STE)
+4. [S Number Manager](https://www.stechbd.net/product/SNM)
+5. [S Technologies API](https://api.stechbd.net)
+6. [Ulkaa API](https://api.ulkaa.com)
+
+And many more projects of clients.
+
+For more details, visit [Md. Ashraful Alam Shemul's Portfolio](PORTFOLIO.md).
