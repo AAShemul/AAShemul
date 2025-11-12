@@ -2,16 +2,9 @@
 
 # Welcome to Md. Ashraful Alam Shemul's GitHub Profile
 
-**Md. Ashraful Alam Shemul** is a Bangladeshi Muslim **author**, **researcher**, **educator**, **entrepreneur**, and
-**software developer**. He earned his Bachelor's degree in Fisheries from **Bangladesh Maritime University**. Shemul is
-the founder of **[S Technologies](https://www.stechbd.net)**, **[Ulkaa](https://www.ulkaa.com)**, and
-**[Shikkha Web](https://shikkhaweb.com)**. He has written several books, including **Aspect Physics**, **Aspect ICT**,
-and **Maritime Knowledge**.
+**Md. Ashraful Alam Shemul** is a Bangladeshi Muslim **software engineer**, **author**, **researcher**, **educator**, and **entrepreneur**. He earned his Bachelor's degree in Fisheries from **Bangladesh Maritime University**. Shemul is the founder of **[S Technologies](https://www.stechbd.net)**, **[Ulkaa](https://www.ulkaa.com)**, and **[Shikkha Web](https://shikkhaweb.com)**. He has written several books, including **Aspect Physics**, **Aspect ICT**, and **Maritime Knowledge**.
 
-In addition to his professional work, Shemul is an amateur story writer with a passion for thrillers, suspense, mystery,
-horror, comedy, and science fiction genres. His favorite color is blue, and he enjoys studying a variety of subjects,
-including physics, mathematics, astronomy, economics, politics, and theology. He loves travelling, photography, music,
-and movies.
+In addition to his professional work, Shemul is an amateur story writer with a passion for thrillers, suspense, mystery, horror, comedy, and science fiction genres. His favorite color is blue, and he enjoys studying a variety of subjects, including physics, mathematics, astronomy, economics, politics, and theology. He loves travelling, photography, music, and movies.
 
 ### Shemul's Social Media Profiles
 
@@ -116,13 +109,30 @@ Here is the short portfolio of Md. Ashraful Alam Shemul. [Click here to see the 
 
 ### React.js Projects
 
-1. [S Technologies](https://beta.stechbd.net)
-2. [Ulkaa Campus](https://campus.ulkaa.com)
-3. [WP-Next](https://github.com/STechBD/WP-Next)
+1. [Counterfoil](https://counterfoil.app/)
+2. [S Technologies](https://www.stechbd.net)
+3. [Shikkha Web](https://www.shikkhaweb.com)
+4. [ArtPix](https://artpix.limited/)
+5. [Farnex](https://farnex.net/)
+6. [Vayhaus](https://vayhaus.com/)
+7. [Green Port Consultants](https://www.greenportconsultantsbd.com/)
+8. [Green Channel](https://www.greenchannelbd.com/)
+9. [Amistee](https://amistee.dev)
+10. [Ulkaa Campus](https://campus.ulkaa.com)
+11. [WP-Next](https://github.com/STechBD/WP-Next)
+
+### Django Projects
+
+1. [Counterfoil API](https://counterfoil.app/)
 
 ### Express.js Projects
 
-1. [Install-Express](https://www.stechbd.net/product/Install-Express)
+1. [Ulkaa API](https://www.ulkaa.com)
+2. [Install-Express](https://www.stechbd.net/product/Install-Express)
+
+### React Native Projects
+
+1. Turfly
 
 ### WordPress Plugin Projects
 
@@ -146,7 +156,6 @@ Here is the short portfolio of Md. Ashraful Alam Shemul. [Click here to see the 
 3. [S Template Engine](https://www.stechbd.net/product/STE)
 4. [S Number Manager](https://www.stechbd.net/product/SNM)
 5. [S Technologies API](https://api.stechbd.net)
-6. [Ulkaa API](https://api.ulkaa.com)
 
 And many more projects of clients.
 
