@@ -2,9 +2,7 @@
 
 # Welcome to Md. Ashraful Alam Shemul's GitHub Profile
 
-**Md. Ashraful Alam Shemul** is a Bangladeshi Muslim **software engineer**, **author**, **researcher**, **educator**, and **entrepreneur**. He earned his Bachelor's degree in Fisheries from **Bangladesh Maritime University**. Shemul is the founder of **[S Technologies](https://www.stechbd.net)**, **[Ulkaa](https://www.ulkaa.com)**, and **[Shikkha Web](https://shikkhaweb.com)**. He has written several books, including **Aspect Physics**, **Aspect ICT**, and **Maritime Knowledge**.
-
-In addition to his professional work, Shemul is an amateur story writer with a passion for thrillers, suspense, mystery, horror, comedy, and science fiction genres. His favorite color is blue, and he enjoys studying a variety of subjects, including physics, mathematics, astronomy, economics, politics, and theology. He loves travelling, photography, music, and movies.
+**Md. Ashraful Alam Shemul** is a Bangladeshi Muslim **software engineer**, **author**, **researcher**, **educator**, and **entrepreneur**. Shemul currently works as a Software Engineer at **[Ternary Solutions, Inc.](https://ternary.solutions)**.
 
 ### Shemul's Social Media Profiles
 
