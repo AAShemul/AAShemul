@@ -60,18 +60,7 @@
 [![Shemul's Tech](https://img.shields.io/badge/MAUI-%2300f.svg?&style=flat-square&logo=MAUI&logoColor=white)]()
 [![Shemul's Tech](https://img.shields.io/badge/WPF-%2307405e.svg?&style=flat-square&logo=WPF&logoColor=white)]()
 
-### Shemul's Natural Language
-
-[![Shemul's Natural Language](https://img.shields.io/badge/Bangla-%23DC382D.svg?&style=flat-square&logo=Google-Translate&logoColor=white)]()
-[![Shemul's Natural Language](https://img.shields.io/badge/English-%23563D7C.svg?&style=flat-square&logo=Google-Translate&logoColor=white)]()
-[![Shemul's Natural Language](https://img.shields.io/badge/Arabic-%2343853D.svg?&style=flat-square&logo=Google-Translate&logoColor=white)]()
-[![Shemul's Natural Language](https://img.shields.io/badge/Spanish-%23D83B7D.svg?&style=flat-square&logo=Google-Translate&logoColor=white)]()
-
 ## Statistics
-
-### Shemul's GitHub Stats
-
-[![Shemul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAShemul&show_icons=true&theme=radical)]()
 
 ### Shemul's GitHub Profile Summary
 
@@ -85,10 +74,6 @@
 
 [![Shemul's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AAShemul&theme=radical)]()
 
-### Shemul's GitHub Trophies
-
-[![Shemul's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AAShemul&theme=radical)]()
-
 ### Shemul's GitHub Profile Counter
 
 [![Shemul's GitHub Profile Views](https://komarev.com/ghpvc/?username=AAShemul&style=flat-square&color=blueviolet)]()
@@ -97,7 +82,7 @@
 
 [![Shemul's StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=4841893)]()
 
-## Shemul's Portfolio
+## Portfolio
 
 Here is the short portfolio of Md. Ashraful Alam Shemul. [Click here to see the full portfolio](PORTFOLIO.md).
 
